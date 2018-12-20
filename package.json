@@ -1,0 +1,15 @@
+{
+    "title": "XCode Dark Theme",
+    "name": "xcode-dark-theme",
+    "description": "XCode Dark Theme for Brackets",
+    "version": "0.0.1",
+    "author": "Danilson Veloso <danilsonvs04@gmail.com>",
+    "homepage": "https://github.com/danilsonsousa/xcode-dark-theme",
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
+    "theme": {
+        "file": "main.less",
+        "dark": true
+    }
+}
